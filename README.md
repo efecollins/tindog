@@ -1,2 +1,1 @@
-# tindog
-A dating website made for dogs (LAB)
+TinDog Starting Files
